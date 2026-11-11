@@ -1,4 +1,3 @@
-# Mickael Dias Soares
 ### Desenvolvedor Fullstack & Arquiteto de Software
 
 Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até a tela do usuário. Uno uma sólida base prática em infraestrutura corporativa, redes e computação em nuvem com a engenharia de software moderna para construir sistemas resilientes, seguros e de alta performance, conectando regras de negócio complexas a uma experiência fluida para o usuário.
@@ -56,14 +55,8 @@ Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até
   </a>
 </p>
 
-<p align="center">
-  <a href="https://gdd-survivor.vercel.app/" target="_blank">
-    <img src="./assets/card_gdd.svg?v=3" width="100%" alt="GDD Survivor" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
-<sub>Cuiabá / Várzea Grande - MT • Aberto a contratações e projetos corporativos • gumimds@gmail.com</sub>
+<sub>Várzea Grande - MT • Aberto a contratações e projetos corporativos • gumimds@gmail.com</sub>
 </div>
