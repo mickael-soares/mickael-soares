@@ -14,12 +14,27 @@ Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até
 
 ### ⚡ Tecnologias & Competências
 
-| Domínio | Stack & Ferramentas |
-| :--- | :--- |
-| **Linguagens & Backend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor_Android-119EFF?style=flat-square&logo=capacitor&logoColor=white) |
-| **Dados & Mensageria** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![AWS SQS](https://img.shields.io/badge/AWS_SQS_FIFO-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **IA, Edge & PWA** | ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Face-API](https://img.shields.io/badge/Face--API-Biometria_Facial-blueviolet?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+#### 🖥️ Linguagens & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,express" />
+</p>
+
+#### 📱 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+#### 🗄️ Dados, Nuvem & Mensageria
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,aws,docker,cloudflare" />
+</p>
+
+#### 🤖 Inteligência Artificial, Edge & PWA
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Face--API.js-Biometria_Facial-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+</p>
 
 ---
 
