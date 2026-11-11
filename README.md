@@ -6,7 +6,7 @@ Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até
 <p align="left">
   <a href="https://www.linkedin.com/in/mickael-s-97755098/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   <a href="https://mickael-soares.github.io/meu-portfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="Portfólio Web" /></a>
-  <a href="https://tisuportems.com.br" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="TiSuporteMS" /></a>
+  <a href="https://tisuportems.com.br" target="_blank"><img src="./assets/tisuporte_avatar.jpg" height="40" width="40" style="border-radius: 10px; object-fit: cover;" alt="TiSuporteMS" /></a>
   <a href="mailto:gumimds@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail" /></a>
 </p>
 
