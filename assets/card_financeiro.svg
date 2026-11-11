@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="850" height="160" role="img" aria-label="Microsservico Financeiro">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="850" height="160" role="img" aria-label="Microsserviço Financeiro">
   <defs>
     <linearGradient id="bg_fin" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#161b22"/>
@@ -6,15 +6,15 @@
     </linearGradient>
   </defs>
   <rect width="850" height="160" rx="8" fill="url(#bg_fin)" stroke="#30363d" stroke-width="1"/>
-  <rect x="0" y="0" width="6" height="160" rx="3" fill="#38bdf8"/>
+  <rect x="0" y="0" width="6" height="160" rx="3" fill="#10b981"/>
 
-  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="bold" fill="#f0f6fc">🏦 Microsserviço Financeiro Distribuído</text>
+  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="bold" fill="#f0f6fc">Microsserviço Financeiro Distribuído</text>
   
-  <rect x="705" y="20" width="120" height="24" rx="12" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
-  <text x="765" y="36" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8" text-anchor="middle">CÓDIGO ABERTO</text>
+  <rect x="675" y="20" width="150" height="24" rx="12" fill="#10b981" opacity="0.15" stroke="#10b981" stroke-width="1"/>
+  <text x="750" y="36" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="bold" fill="#10b981" text-anchor="middle">ALTA CONCORRÊNCIA</text>
 
-  <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">Motor contábil de liquidação com Ledger imutável (append-only), prevenção estrita contra race conditions</text>
-  <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">via locks pessimistas no PostgreSQL (SELECT FOR UPDATE) e mensageria assíncrona AWS SQS FIFO com Outbox.</text>
+  <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">Processamento de saldo e liquidação financeira. Garantia de atomicidade e integridade contábil via</text>
+  <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">Ledger imutável (append-only), locks pessimistas no PostgreSQL, idempotência SHA-256 e AWS SQS FIFO.</text>
 
-  <text x="24" y="132" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">👉 Ver Código Fonte &amp; Arquitetura no Repositório ➔</text>
+  <text x="24" y="132" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="bold" fill="#10b981">Ver Arquitetura e Código no GitHub →</text>
 </svg>

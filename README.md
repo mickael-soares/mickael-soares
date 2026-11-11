@@ -12,53 +12,53 @@ Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até
 
 ---
 
-### ⚡ Tecnologias & Competências
+### Tecnologias & Competências
 
-#### 🖥️ Linguagens & Backend
+#### Linguagens & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,express" />
 </p>
 
-#### 📱 Frontend & Mobile
+#### Frontend & Mobile
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-#### 🗄️ Dados, Nuvem & Mensageria
+#### Dados, Nuvem & Mensageria
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,aws,docker,cloudflare" />
 </p>
 
-#### 🤖 Inteligência Artificial, Edge & PWA
+#### Inteligência Artificial, Edge & PWA
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,bots,postman,linux,workers" />
 </p>
 
 ---
 
-### 🚀 Casos de Sucesso & Aplicações em Produção
+### Casos de Sucesso & Aplicações em Produção
 
 <p align="center">
   <a href="https://homologacao.tisuportems.com.br" target="_blank">
-    <img src="./assets/card_pontosmart.svg?v=1" width="100%" alt="PontoSmart" />
+    <img src="./assets/card_pontosmart.svg?v=2" width="100%" alt="PontoSmart" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mickael-soares/microsservico-financeiro" target="_blank">
-    <img src="./assets/card_financeiro.svg?v=1" width="100%" alt="Microsserviço Financeiro" />
+    <img src="./assets/card_financeiro.svg?v=2" width="100%" alt="Microsserviço Financeiro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://desafio-nexo-assist-iota.vercel.app/chat" target="_blank">
-    <img src="./assets/card_nexo.svg?v=1" width="100%" alt="Nexo Assist Chat" />
+    <img src="./assets/card_nexo.svg?v=2" width="100%" alt="Nexo Assist Chat" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://gdd-survivor.vercel.app/" target="_blank">
-    <img src="./assets/card_gdd.svg?v=1" width="100%" alt="GDD Survivor" />
+    <img src="./assets/card_gdd.svg?v=2" width="100%" alt="GDD Survivor" />
   </a>
 </p>
 

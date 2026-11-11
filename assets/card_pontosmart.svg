@@ -8,7 +8,7 @@
   <rect width="850" height="160" rx="8" fill="url(#bg_ps)" stroke="#30363d" stroke-width="1"/>
   <rect x="0" y="0" width="6" height="160" rx="3" fill="#10b981"/>
 
-  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="bold" fill="#f0f6fc">🛡️ PontoSmart — SaaS de Ponto Eletrônico &amp; Biometria Facial</text>
+  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="bold" fill="#f0f6fc">PontoSmart — SaaS de Ponto Eletrônico &amp; Biometria Facial</text>
   
   <rect x="680" y="20" width="145" height="24" rx="12" fill="#10b981" opacity="0.15" stroke="#10b981" stroke-width="1"/>
   <text x="752" y="36" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="bold" fill="#10b981" text-anchor="middle">HOMOLOGAÇÃO ATIVA</text>
@@ -16,5 +16,5 @@
   <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">Sistema REP-P em conformidade com a Portaria 671 MTE e LGPD. IA Facial client-side via TensorFlow,</text>
   <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">cerca de GPS, arquitetura PWA Offline-First (IndexedDB), Cache RAM (0 ms) e Certificado Digital A1 ICP-Brasil.</text>
 
-  <text x="24" y="132" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">👉 Acessar Ambiente de Demonstração (homologacao.tisuportems.com.br) ➔</text>
+  <text x="24" y="132" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="bold" fill="#10b981">Acessar Ambiente de Demonstração (homologacao.tisuportems.com.br) →</text>
 </svg>
