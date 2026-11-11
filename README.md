@@ -4,10 +4,10 @@
 Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até a tela do usuário. Uno uma sólida base prática em infraestrutura corporativa, redes e computação em nuvem com a engenharia de software moderna para construir sistemas resilientes, seguros e de alta performance, conectando regras de negócio complexas a uma experiência fluida para o usuário.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mickael-s-97755098/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mickael-soares.github.io/meu-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio_Web-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://tisuportems.com.br" target="_blank"><img src="https://img.shields.io/badge/TiSuporteMS-1e293b?style=flat-square&logo=cloudflare&logoColor=white" /></a>
-  <a href="mailto:gumimds@gmail.com"><img src="https://img.shields.io/badge/Contato_Direto-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mickael-s-97755098/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://mickael-soares.github.io/meu-portfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfólio Web" /></a>
+  <a href="https://tisuportems.com.br" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="TiSuporteMS" /></a>
+  <a href="mailto:gumimds@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail" /></a>
 </p>
 
 ---
@@ -31,10 +31,7 @@ Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até
 
 #### 🤖 Inteligência Artificial, Edge & PWA
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Face--API.js-Reconhecimento_Facial-8B5CF6?style=for-the-badge&logo=faceit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-Offline--First-06B6D4?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mastra_AI-Agentes_Inteligentes-10B981?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,bots,postman,linux,workers" />
 </p>
 
 ---
