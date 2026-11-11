@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="850" height="160" role="img" aria-label="Nexo Assist Chat">
+  <defs>
+    <linearGradient id="bg_nx" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="850" height="160" rx="8" fill="url(#bg_nx)" stroke="#30363d" stroke-width="1"/>
+  <rect x="0" y="0" width="6" height="160" rx="3" fill="#a855f7"/>
+
+  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="bold" fill="#f0f6fc">🤖 Nexo Assist — Agente de Suporte TI</text>
+  
+  <rect x="715" y="20" width="110" height="24" rx="12" fill="#a855f7" opacity="0.15" stroke="#a855f7" stroke-width="1"/>
+  <text x="770" y="36" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="bold" fill="#a855f7" text-anchor="middle">LIVE VERCEL</text>
+
+  <text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">Plataforma corporativa de Service Desk com agente inteligente de IA para triagem de incidentes,</text>
+  <text x="24" y="94" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#8b949e">motor de regras de negócio, cálculo dinâmico de SLAs e transição fluida para atendimento humano.</text>
+
+  <text x="24" y="132" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">👉 Acessar Live Demo na Vercel (Login de Teste Integrado) ➔</text>
+</svg>
