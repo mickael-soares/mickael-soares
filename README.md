@@ -31,9 +31,10 @@ Desenvolvo soluções digitais robustas, desde a infraestrutura do servidor até
 
 #### 🤖 Inteligência Artificial, Edge & PWA
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Face--API.js-Biometria_Facial-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/Face--API.js-Reconhecimento_Facial-8B5CF6?style=for-the-badge&logo=faceit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-Offline--First-06B6D4?style=for-the-badge&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mastra_AI-Agentes_Inteligentes-10B981?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
