@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Mickael Soares Tech Stack">
+<defs>
+<linearGradient id="bg_stk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1a30"/><stop offset="1" stop-color="#050914"/></linearGradient>
+</defs>
+<style>
+.mono{font-family:'Courier New',monospace}
+.subt{font-size:12px;fill:#4cc2ff;letter-spacing:1px;font-weight:bold}
+.item{font-size:13px;fill:#e0f2fe;letter-spacing:1px}
+</style>
+<rect width="900" height="240" rx="6" fill="url(#bg_stk)"/>
+<rect x="0.5" y="0.5" width="899" height="239" rx="6" fill="none" stroke="#1d5f99" stroke-width="1"/>
+<rect x="0" y="0" width="900" height="30" rx="6" fill="#0f1930"/>
+<rect x="0" y="24" width="900" height="6" fill="#0f1930"/>
+<rect x="16" y="11" width="8" height="8" fill="#22355e"/>
+<rect x="30" y="11" width="8" height="8" fill="#22355e"/>
+<rect x="44" y="11" width="8" height="8" fill="#4cc2ff"/>
+<text class="mono" x="66" y="20" font-size="13" fill="#7fa3d6" letter-spacing="2">SYSTEM-MODULES ~ TECH STACK</text>
+<text class="mono" x="860" y="20" font-size="12" fill="#22c55e" text-anchor="end" letter-spacing="2">MODULES: LOADED</text>
+
+<g class="mono">
+<!-- COLUNA 1 -->
+<text class="subt" x="40" y="65">// BACKEND &amp; MENSAGERIA</text>
+<text class="item" x="40" y="90">&#8226; TypeScript / JavaScript</text>
+<text class="item" x="40" y="115">&#8226; Node.js / Bun / Express</text>
+<text class="item" x="40" y="140">&#8226; NestJS (Clean Architecture)</text>
+<text class="item" x="40" y="165">&#8226; AWS SQS FIFO (Inbox/Outbox)</text>
+<text class="item" x="40" y="190">&#8226; Domain-Driven Design (DDD)</text>
+
+<!-- COLUNA 2 -->
+<text class="subt" x="340" y="65">// BANCO DE DADOS &amp; CACHE</text>
+<text class="item" x="340" y="90">&#8226; PostgreSQL 16 (Pessimistic Locks)</text>
+<text class="item" x="340" y="115">&#8226; MikroORM / Supabase</text>
+<text class="item" x="340" y="140">&#8226; Ledgers Imutaveis (Append-Only)</text>
+<text class="item" x="340" y="165">&#8226; SQLite WAL / RAM Caching</text>
+<text class="item" x="340" y="190">&#8226; Triggers &amp; Constraints PL/pgSQL</text>
+
+<!-- COLUNA 3 -->
+<text class="subt" x="640" y="65">// FRONTEND, MOBILE &amp; CLOUD</text>
+<text class="item" x="640" y="90">&#8226; React 19 / Next.js 14</text>
+<text class="item" x="640" y="115">&#8226; Tailwind CSS / Bootstrap</text>
+<text class="item" x="640" y="140">&#8226; Capacitor (Android Nativo)</text>
+<text class="item" x="640" y="165">&#8226; TensorFlow.js / Face-API</text>
+<text class="item" x="640" y="190">&#8226; Docker / Vercel / Cloudflare</text>
+</g>
+</svg>

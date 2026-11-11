@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-label="Telemetria: Mickael Dias Soares">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1a30"/><stop offset="1" stop-color="#050914"/></linearGradient>
+</defs>
+<style>
+.mono{font-family:'Courier New',monospace}
+.cur{animation:blink 1s steps(1,end) infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.sig{animation:sig 1.6s steps(1,end) infinite}
+@keyframes sig{0%{opacity:1}50%{opacity:.25}}
+.scan{animation:scan 5s steps(20,end) infinite}
+@keyframes scan{from{transform:translateY(0)}to{transform:translateY(130px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="180" rx="6" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="899" height="179" rx="6" fill="none" stroke="#1d5f99" stroke-width="1"/>
+<rect x="0" y="0" width="900" height="30" rx="6" fill="#0f1930"/>
+<rect x="0" y="24" width="900" height="6" fill="#0f1930"/>
+<rect x="16" y="11" width="8" height="8" fill="#22355e"/>
+<rect x="30" y="11" width="8" height="8" fill="#22355e"/>
+<rect x="44" y="11" width="8" height="8" fill="#4cc2ff"/>
+<text class="mono" x="66" y="20" font-size="13" fill="#7fa3d6" letter-spacing="2">TERMINAL-RADAR ~ MICKAEL</text>
+<text class="sig mono" x="860" y="20" font-size="12" fill="#4cc2ff" text-anchor="end" letter-spacing="2">SIGNAL: ONLINE</text>
+<g opacity=".08"><rect class="scan" x="0" y="34" width="900" height="6" fill="#4cc2ff"/></g>
+
+<g class="mono" font-size="13" letter-spacing="2">
+<text x="40" y="68" fill="#4a6fa5">NOME</text>
+<text x="190" y="68" fill="#e0f2fe" font-size="16">Mickael Dias Soares</text>
+
+<text x="40" y="96" fill="#4a6fa5">ATUAÇÃO</text>
+<text x="190" y="96" fill="#e0f2fe" font-size="16">Software Engineer &#8226; Fullstack &amp; Backend</text>
+
+<text x="40" y="124" fill="#4a6fa5">STACK</text>
+<text x="190" y="124" fill="#4cc2ff" font-size="16">TypeScript &#8226; Node.js &#8226; React &#8226; PostgreSQL</text>
+
+<text x="40" y="152" fill="#4a6fa5">BASE</text>
+<text x="190" y="152" fill="#e0f2fe" font-size="16">TiSuporteMS &#8226; Cuiaba / Varzea Grande, MT &#8226; Brasil</text>
+<rect class="cur" x="725" y="140" width="10" height="14" fill="#4cc2ff"/>
+</g>
+</svg>
