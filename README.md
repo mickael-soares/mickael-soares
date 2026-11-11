@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Mickael%20Soares&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Sistemas%20Distribu%C3%ADdos&descSize=16&descAlignY=68" width="100%"/>
+# Mickael Soares
+### Software Engineer · Backend & Sistemas Distribuídos
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mickael-s-97755098" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +20,7 @@
 
 ---
 
-### 💻 Stack Tecnológica
+### Stack Tecnológica
 
 <div align="center">
 
@@ -29,16 +32,16 @@
 
 ---
 
-### 🚀 Sistemas em Produção & Demonstrações
+### Sistemas em Produção & Demonstrações
 
 <br/>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center">🏦 Microsserviço Financeiro</h4>
+      <h4 align="center">Microsserviço Financeiro</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-C%C3%B3digo_Aberto-238636?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Código_Aberto-238636?style=flat-square" />
       </p>
       <p align="justify">
         Sistema distribuído de saldo e liquidação com <strong>Ledger imutável (append-only)</strong>, controle estrito de concorrência com locks pessimistas no PostgreSQL e mensageria <strong>AWS SQS FIFO</strong>.
@@ -48,7 +51,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🤖 Nexo Assist Chat</h4>
+      <h4 align="center">Nexo Assist Chat</h4>
       <p align="center">
         <a href="https://desafio-nexo-assist-iota.vercel.app/chat"><img src="https://img.shields.io/badge/Live_Demo-Vercel-success?style=flat-square&logo=vercel" /></a>
       </p>
@@ -60,7 +63,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center">🎮 GDD Survivor</h4>
+      <h4 align="center">GDD Survivor</h4>
       <p align="center">
         <a href="https://gdd-survivor.vercel.app/"><img src="https://img.shields.io/badge/Play_Online-Vercel-success?style=flat-square&logo=vercel" /></a>
       </p>
