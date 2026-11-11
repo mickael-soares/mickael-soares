@@ -1,35 +1,78 @@
-<div align="left">
+<div align="center">
 
-# Mickael Soares
-### Software Engineer · Backend & Sistemas Distribuídos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Mickael%20Soares&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Sistemas%20Distribu%C3%ADdos&descSize=16&descAlignY=68" width="100%"/>
 
-<a href="https://www.linkedin.com/in/mickael-s-97755098"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://mickael-soares.github.io/meu-portfolio/"><img src="https://img.shields.io/badge/Portfólio_Web-161b22?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://tisuportems.com.br"><img src="https://img.shields.io/badge/TiSuporteMS-161b22?style=flat-square" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mickael-s-97755098" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mickael-soares.github.io/meu-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio_Web-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://tisuportems.com.br" target="_blank"><img src="https://img.shields.io/badge/TiSuporteMS-1f2937?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+</p>
 
-<br/>
-
-Especialista no desenvolvimento de microsserviços de alta concorrência, sistemas financeiros e plataformas web modernas. Sólida atuação em **Domain-Driven Design (DDD)**, consistência contábil via ledgers imutáveis e mensageria distribuída.
+<p align="center">
+  Especialista no desenvolvimento de microsserviços de alta concorrência, sistemas financeiros e plataformas web modernas.<br/>
+  Foco em <strong>Domain-Driven Design (DDD)</strong>, consistência contábil via ledgers imutáveis e mensageria distribuída.
+</p>
 
 </div>
 
 ---
 
-### ⚙️ Pilares de Engenharia
+### 💻 Stack Tecnológica
 
-| Backend & Concorrência | Eventos & Mensageria | Aplicações & IA |
-| :--- | :--- | :--- |
-| • Node.js, TypeScript, NestJS, Bun<br/>• PostgreSQL 16 (Locks Pessimistas)<br/>• Triggers PL/pgSQL & MikroORM | • AWS SQS FIFO & Dead-Letter Queue<br/>• Transactional Inbox & Outbox<br/>• Idempotência com Hash Canônico | • React, Next.js 14 (App Router)<br/>• Tailwind CSS & Capacitor Android<br/>• Agentes Autônomos de IA |
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,nestjs,postgres,supabase,aws,docker,react,nextjs,tailwind" />
+</p>
+
+</div>
 
 ---
 
 ### 🚀 Sistemas em Produção & Demonstrações
 
-| Sistema / Arquitetura | Destaques Técnicos | Demonstração |
-| :--- | :--- | :--- |
-| **[Microsserviço Financeiro](https://github.com/mickael-soares/microsservico-financeiro)** | Ledger contábil imutável (append-only), proteção contra lost updates, concorrência no Postgres e testes de carga. | `Código Aberto` |
-| **[Nexo Assist Chat](https://github.com/mickael-soares/nexo-assist-chat)** | Agente de IA para suporte de TI, triagem automatizada, cálculo dinâmico de SLA e escalonamento para analistas. | [● Live Demo (Vercel)](https://desafio-nexo-assist-iota.vercel.app/chat) |
-| **[GDD-Survivor](https://github.com/mickael-soares/GDD-Survivor)** | Jogo 2D interativo em tempo real no navegador com renderização gráfica, física e deploy contínuo. | [● Jogar no Navegador](https://gdd-survivor.vercel.app/) |
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🏦 Microsserviço Financeiro</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-C%C3%B3digo_Aberto-238636?style=flat-square" />
+      </p>
+      <p align="justify">
+        Sistema distribuído de saldo e liquidação com <strong>Ledger imutável (append-only)</strong>, controle estrito de concorrência com locks pessimistas no PostgreSQL e mensageria <strong>AWS SQS FIFO</strong>.
+      </p>
+      <p align="center">
+        <a href="https://github.com/mickael-soares/microsservico-financeiro"><strong>Ver Repositório ➔</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🤖 Nexo Assist Chat</h4>
+      <p align="center">
+        <a href="https://desafio-nexo-assist-iota.vercel.app/chat"><img src="https://img.shields.io/badge/Live_Demo-Vercel-success?style=flat-square&logo=vercel" /></a>
+      </p>
+      <p align="justify">
+        Plataforma corporativa de Service Desk orientada a <strong>Agente Inteligente de IA</strong>, com triagem conversacional, cálculo dinâmico de SLA e escalonamento para analistas.
+      </p>
+      <p align="center">
+        <a href="https://desafio-nexo-assist-iota.vercel.app/chat"><strong>Testar Aplicação ➔</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🎮 GDD Survivor</h4>
+      <p align="center">
+        <a href="https://gdd-survivor.vercel.app/"><img src="https://img.shields.io/badge/Play_Online-Vercel-success?style=flat-square&logo=vercel" /></a>
+      </p>
+      <p align="justify">
+        Jogo 2D estilo roguelike desenvolvido para navegador com renderização gráfica e física em tempo real, lógica de hordas e deploy contínuo.
+      </p>
+      <p align="center">
+        <a href="https://gdd-survivor.vercel.app/"><strong>Jogar no Browser ➔</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
