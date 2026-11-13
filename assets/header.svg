@@ -1,0 +1,39 @@
+<svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbf9f5"/>
+      <stop offset="50%" stop-color="#f4f0ea"/>
+      <stop offset="100%" stop-color="#eae5dc"/>
+    </linearGradient>
+    <filter id="shadow" x="-4" y="2" width="908" height="238" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#1c2826" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <!-- Container de Fundo -->
+  <rect x="2" y="2" width="896" height="226" rx="16" fill="url(#bgGrad)" stroke="#e5e0d5" stroke-width="2" filter="url(#shadow)"/>
+
+  <!-- Badge Status Superior -->
+  <rect x="40" y="28" width="340" height="28" rx="14" fill="#eef3f0" stroke="#4a6b5d" stroke-opacity="0.3" stroke-width="1"/>
+  <circle cx="54" cy="42" r="4" fill="#4a6b5d"/>
+  <text x="68" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#4a6b5d" letter-spacing="0.5">FULLSTACK &amp; ARQUITETURA DE SOFTWARE</text>
+
+  <!-- Avatar e Identificação -->
+  <g transform="translate(40, 72)">
+    <!-- Moldura Avatar -->
+    <rect x="0" y="0" width="58" height="58" rx="29" fill="#ffffff" stroke="#4a6b5d" stroke-width="2"/>
+    <image x="3" y="3" width="52" height="52" rx="26" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/mickael-soares.png" href="https://github.com/mickael-soares.png"/>
+
+    <!-- Nome e Função -->
+    <text x="76" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#1c2826" letter-spacing="-0.5">Mickael <tspan fill="#4a6b5d">Soares</tspan></text>
+    <text x="76" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#556360">Founder &amp; Lead Software Engineer @tisuportems</text>
+  </g>
+
+  <!-- Descrição Curta -->
+  <text x="40" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#556360">
+    Engenharia de software moderna, arquiteturas de microsserviços e computação em nuvem com foco em escalabilidade.
+  </text>
+  <text x="40" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#4a6b5d">
+    • TypeScript / Node.js   • Python &amp; IA   • Supabase &amp; PostgreSQL   • Cloudflare Edge &amp; Docker
+  </text>
+</svg>
