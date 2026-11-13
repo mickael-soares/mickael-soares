@@ -63,7 +63,7 @@
 
 #### Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
 </p>
 
 #### Dados, Nuvem & Mensageria
