@@ -33,6 +33,16 @@
 </p>
 
 <p align="center">
+  <a href="https://portal.tisuportems.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-portal.svg" alt="Portal do Cliente - Service Desk" width="48.5%"/>
+  </a>
+  &nbsp;
+  <a href="https://www.tisuportems.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-telemetria.svg" alt="Sistema de Telemetria" width="48.5%"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://desafio-nexo-assist-iota.vercel.app/chat" target="_blank">
     <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-nexo.svg" alt="Nexo Assist Chat" width="48.5%"/>
   </a>
