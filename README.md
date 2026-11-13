@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://tisuportems.com.br">
-  <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/header.svg" alt="Mickael Soares - Fullstack & Software Architect" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/header.svg?v=2" alt="Mickael Soares - Fullstack & Software Architect" width="100%"/>
 </a>
 
 <br/><br/>
@@ -24,30 +24,32 @@
 
 <p align="center">
   <a href="https://ponto.tisuportems.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-pontosmart.svg" alt="PontoSmart SaaS" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-pontosmart.svg?v=3" alt="PontoSmart SaaS" width="48.5%"/>
   </a>
   &nbsp;
   <a href="https://github.com/mickael-soares/microsservico-financeiro" target="_blank">
-    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-financeiro.svg" alt="Microsserviço Financeiro" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-financeiro.svg?v=3" alt="Microsserviço Financeiro" width="48.5%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://portal.tisuportems.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-portal.svg" alt="Portal do Cliente - Service Desk" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-portal.svg?v=3" alt="Portal do Cliente - Service Desk" width="48.5%"/>
   </a>
   &nbsp;
   <a href="https://www.tisuportems.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-telemetria.svg" alt="Sistema de Telemetria" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-telemetria.svg?v=3" alt="Sistema de Telemetria" width="48.5%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://desafio-nexo-assist-iota.vercel.app/chat" target="_blank">
-    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-nexo.svg" alt="Nexo Assist Chat" width="48.5%"/>
+  <a href="https://agenda.tisuportems.com.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-agenda.svg?v=3" alt="Sistema de Agendamento" width="48.5%"/>
   </a>
   &nbsp;
-  <span style="display:inline-block; width:48.5%;"></span>
+  <a href="https://desafio-nexo-assist-iota.vercel.app/chat" target="_blank">
+    <img src="https://raw.githubusercontent.com/mickael-soares/mickael-soares/main/assets/card-nexo.svg?v=3" alt="Nexo Assist Chat" width="48.5%"/>
+  </a>
 </p>
 
 ---
