@@ -79,5 +79,5 @@
 ---
 
 <div align="center">
-<sub>Várzea Grande - MT • Aberto a contratações e projetos corporativos • <a href="mailto:gumimds@gmail.com">gumimds@gmail.com</a></sub>
+<sub>Aberto a contratações e projetos corporativos <a href="mailto:gumimds@gmail.com">gumimds@gmail.com</a></sub>
 </div>
